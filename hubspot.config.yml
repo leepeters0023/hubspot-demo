@@ -1,0 +1,12 @@
+defaultPortal: LeePeters-NewBreed
+portals:
+  - name: LeePeters-NewBreed
+    portalId: 8616299
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CKaJ9f_QLhIIAA0ADAAA4AEY6_KNBCD63ekEKO7pDDIZAJ6WPZqj7hRZcgER6GiewbCxRcu8Wd4sITogAAAEQQAAAHgAAAAAAAAAAIABAAAAAAAEwADAB2CO8DFCGQCelj2adsiWwEe8hgu8kZdgHEqqN7oCjiI
+        expiresAt: '2020-10-10T00:50:57.841Z'
+    personalAccessKey: >-
+      CiQyZDQ0ZmIwYi04MTY5LTRjMjItODRiZC02N2Y4YjU2YzBjN2YQ6_KNBBj63ekEKhkABeaRgoKsLo0fjlLsw12MlnylJ_5iNOKo
